@@ -1,2 +1,2 @@
 # python-openCV
-This is just a simple project showcasing functionalites using core ML concepts. 
+The following files gives simple code show casing the functionality of open cv. 
