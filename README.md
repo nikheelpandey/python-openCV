@@ -1,2 +1,2 @@
 # python-openCV
-The following files gives simple code show casing the functionality of open cv. 
+The following files gives simple code showcasing the functionality of open cv. 
